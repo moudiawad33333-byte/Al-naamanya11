@@ -1,0 +1,6 @@
+{
+  "name": "نظام المحاسبة والإدارة المالية - C.A.L.D",
+  "description": "برنامج محاسبة وإدارة مالية متكامل لمركز التوحد والصعوبات التعليمية C.A.L.D بفرعي حلبا والمنية، تحت إدارة أ. سعد غية و أ. هبة سحمراني والمحاسبة أ. ملك عوض.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
